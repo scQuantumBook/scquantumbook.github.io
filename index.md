@@ -2,3 +2,5 @@ This is a companion web site for the book *Principles of Superconducting Quantum
 
 \[ Link to the publisher's info and web site will go here \]
 
+## Chapter 01
+[Creating a Bell state](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?labpath=Bell.ipynb)
