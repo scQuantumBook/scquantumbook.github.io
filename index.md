@@ -7,4 +7,4 @@ Wiley, April 2022, ISBN: 978-1-119-75074-1
 [instructor resources](https://bcs.wiley.com/he-bcs/Books?action=index&itemId=1119750725&bcsId=12203)  
 
 ## Chapter 01
-[Creating a Bell state](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?labpath=Bell.ipynb)
+- Creating a Bell state [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?labpath=Bell.ipynb)
