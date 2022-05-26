@@ -10,5 +10,5 @@ Jupyter notebooks use [IBM Qiskit](https://qiskit.org) to illustrate various con
 
 ### Chapter 01: Qubits, Gates, and Circuits
 - Single-qubit states and gates  
-- [Creating a Bell state](https://mybinder.org/v2/gh/https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?labpath=Bell.ipynb)
+- [Creating a Bell state](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?labpath=Bell.ipynb)
 
