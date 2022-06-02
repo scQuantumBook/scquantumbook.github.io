@@ -5,6 +5,7 @@ Daniel D. Stancil, Gregory T. Byrd
 Wiley, April 2022, ISBN: 978-1-119-75074-1  
 [book info](https://www.wiley.com/en-us/Principles+of+Superconducting+Quantum+Computers-p-9781119750741)  
 [instructor resources](https://bcs.wiley.com/he-bcs/Books?action=index&itemId=1119750725&bcsId=12203)  
+[Errata](./errata.pdf).  To report an error, use [this form](https://forms.gle/sp3XAece5w9NM3mN7).
 
 Jupyter notebooks use [IBM Qiskit](https://qiskit.org) to illustrate various concepts covered in the textbook in an interactive way. Notebooks are launched using [Binder](https://mybinder.readthedocs.io/en/latest/about/index.html); no installation is required on the local computer.
 
@@ -14,3 +15,4 @@ Jupyter notebooks use [IBM Qiskit](https://qiskit.org) to illustrate various con
 - [Two-qubit states and CNOT](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?labpath=states_2q.ipynb)  
 - [Creating a Bell state](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?labpath=Bell.ipynb)
 
+Questions or comments? Reach authors at [scQuantumBook@gmail.com](mailto:scQuantumBook@gmail.com).
