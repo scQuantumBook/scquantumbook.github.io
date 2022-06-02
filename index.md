@@ -14,5 +14,6 @@ Jupyter notebooks use [IBM Qiskit](https://qiskit.org) to illustrate various con
 - [Single-qubit gates](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?labpath=gates_1q.ipynb)  
 - [Two-qubit states and CNOT](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?labpath=states_2q.ipynb)  
 - [Creating a Bell state](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?labpath=Bell.ipynb)
+- [Deutsch's problem](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?labpath=deutsch.ipynb)
 
 Questions or comments? Reach authors at [scQuantumBook@gmail.com](mailto:scQuantumBook@gmail.com).
