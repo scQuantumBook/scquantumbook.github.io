@@ -10,11 +10,11 @@ Wiley, April 2022, ISBN: 978-1-119-75074-1
 Jupyter notebooks use [IBM Qiskit](https://qiskit.org) to illustrate various concepts covered in the textbook in an interactive way. Notebooks are launched using [Binder](https://mybinder.readthedocs.io/en/latest/about/index.html); no installation is required on the local computer.
 
 ### Chapter 01: Qubits, Gates, and Circuits
-- [Single-qubit states](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=states_1q.ipynb)
-- [Single-qubit gates](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=gates_1q.ipynb)  
-- [Two-qubit states and CNOT](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=states_2q.ipynb)  
-- [Creating a Bell state](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=Bell.ipynb)
-- [Deutsch's problem](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=deutsch.ipynb)
+- [Single-qubit states](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=ch01/states_1q.ipynb)
+- [Single-qubit gates](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=ch01/gates_1q.ipynb)  
+- [Two-qubit states and CNOT](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=ch01/states_2q.ipynb)  
+- [Creating a Bell state](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=ch01/Bell.ipynb)
+- [Deutsch's problem](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=ch01/deutsch.ipynb)
 
 ### Chapter 02: Physics of Single Qubit Gates
 - [Rotations](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=ch02/gates_rotations_1q.ipynb)
