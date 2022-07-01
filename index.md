@@ -16,4 +16,8 @@ Jupyter notebooks use [IBM Qiskit](https://qiskit.org) to illustrate various con
 - [Creating a Bell state](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=Bell.ipynb)
 - [Deutsch's problem](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=deutsch.ipynb)
 
+### Chapter 02: Physics of Single Qubit Gates
+- [Rotations](https://mybinder.org/v2/gh/scQuantumBook/qiskit-notebooks/HEAD?filepath=ch02/gates_rotations_1q.ipynb)
+
+
 Questions or comments? Reach authors at [scQuantumBook@gmail.com](mailto:scQuantumBook@gmail.com).
